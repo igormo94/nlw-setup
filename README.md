@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um Habit Tracker, destinado a apoiar pessoas que precisam controlar seus hábitos.
 
-- [Acesse o projeto finalizado, online](https://igormo94.github.io/nlw-setup)
+- [Visite o projeto finalizado online](https://igormo94.github.io/nlw-setup)
 
 
 ## 🔖 Layout
